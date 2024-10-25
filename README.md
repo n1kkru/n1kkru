@@ -5,6 +5,6 @@
 <h2> Code</h2>
 <p> JavaScript, TypeScript, HTML, CSS, Python</p>
 <h2> Tools</h2>
-<p> React, Redux, Node, Storybook, Styled-Components, Jest,</p>
+<p> React, Redux, NodeJS, Storybook, Styled-Components, Jest, Webpack</p>
 
 [![pngwing com](https://github.com/n1kkru/n1kkru/assets/100826256/971cc59e-7bec-4117-8c29-b82e69c4ff90)](https://t.me/nikkru)
